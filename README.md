@@ -1,3 +1,3 @@
 # WebAppDev-FInal
 
-![alt text](Screenshots/1.jpg);
+![alt text](Screenshots/1.jpg)
